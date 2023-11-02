@@ -1,0 +1,33 @@
+.logo{
+	color:04364A;
+	background-color:64CCC5;
+	text-align:center;
+	font-size:50px;
+	
+	
+}
+table{
+	border:red;
+	background-color:DAFFFB;
+	
+	
+	
+}
+
+button{
+	
+	color:04364A;
+	background-color:64CCC5;
+}
+
+#result{
+	color:04364A;
+	text-align:center;
+	font-size:30px;
+}
+
+#curr{
+	color:04364A;
+	font-size:30px;
+		text-align:center;
+}
